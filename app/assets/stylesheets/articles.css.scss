@@ -136,6 +136,7 @@ body {
 }
 
 #artykuly {
+	width: 100%;
 	font: normal 12px "DroidSansBold", Verdana, sans-serif;
 	color: #717165;
 	float: left;
@@ -144,19 +145,21 @@ body {
 	border: 5px solid #e9e9e4;
 	padding: 10px;
 	margin: 3px;
-	width: 100%;
 
 }
 
 #artykuly li a {
+	width: 100%;
 	color: #64645d;
 }
 
 #artykuly li a:hover{
+	width: 100%;
 	color: #dc692e;
 }
 
 #tytul {
+	width: 100%;
 	font: normal 24px "MarketingScriptRegular", Georgia, serif;
 	margin-top: 2px;
 	padding: 5px 0 5px 10px;
@@ -180,6 +183,7 @@ body {
 }
 
 #tresc {
+	width: 100%;
 	font: normal 24px "MarketingScriptRegular", Georgia, serif;
 	text-transform: uppercase;
 	margin-top: 2px;
